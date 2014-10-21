@@ -1,4 +1,4 @@
-best-lottery-number
+best_lottery_number
 ===================
 
 Grab lottery numbers from official websites and calculate common occurrences
